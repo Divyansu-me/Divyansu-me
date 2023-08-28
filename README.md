@@ -2,4 +2,4 @@
 - 👀 I’m interested in Application development
 - 🌱 I’m currently upgrading myself to become industry-ready
 - 💞️ I’m looking to collaborate on ...
-- 📫 Here are my socials (Linkedin)[https://www.linkedin.com/in/divyansu-ranjan-sahu-4a45b9209/]  (Instagram)[https://www.instagram.com/divyan.su/]
+- 📫 Here are my socials [Linkedin](https://www.linkedin.com/in/divyansu-ranjan-sahu-4a45b9209/)  [Instagram](https://www.instagram.com/divyan.su/)
